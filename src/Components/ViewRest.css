@@ -1,0 +1,14 @@
+.image{
+    width: 350px;
+    margin: 50px;
+    margin-left: 50%;
+    border-radius: 10px;
+}
+
+.details{
+    margin-top: 50px;
+    background-color: rgba(105, 105, 105, 0.127);
+    margin-right: 280px;
+    padding: 30px;
+    border-radius: 5px;
+}
